@@ -1,0 +1,16 @@
+# package directories
+node_modules
+jspm_packages
+
+# Serverless directories
+.serverless
+serverless.yml
+
+# ide
+.idea
+*.iml
+
+# misc
+*.DS_Store
+package-lock.json
+seed-restaurants.js
